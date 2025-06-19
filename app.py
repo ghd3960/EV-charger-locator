@@ -48,7 +48,7 @@ def address_to_coords(address: str):
 
 # ------------------ 앱 설정 ------------------
 st.set_page_config(page_title="EV 충전소 탐색기", layout="wide")
-st.title("🔌 전기차 충전소 위치 탐색기 (XLSX 기반)")
+st.title("🔌 전기차 충전소 위치 탐색기 (CSV 기반)")
 
 XLSX_PATH = "한국환경공단_전기차 충전소 위치 및 운영정보.xlsx"
 df_raw = load_data(XLSX_PATH)
