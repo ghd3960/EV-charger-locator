@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#1976D2"                  # 푸른색 강조 (버튼, 슬라이더 등)
+backgroundColor = "#E3F2FD"               # 전체 배경 (밝은 하늘색)
+secondaryBackgroundColor = "#FFFFFF"      # 사이드바 등 부 배경
+textColor = "#0D47A1"                     # 진한 파란색 텍스트
+font = "sans serif"                       # 기본 폰트
